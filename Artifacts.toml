@@ -1,0 +1,143 @@
+[[SDL12_compat]]
+arch = "aarch64"
+git-tree-sha1 = "6f24906fda79abf7c12ba247636d0d24031b7f52"
+os = "macos"
+
+    [[SDL12_compat.download]]
+    sha256 = "8c4726b222850c587223e50693980fe52e47d8808a053a664907e50eea939310"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.aarch64-apple-darwin.tar.gz"
+[[SDL12_compat]]
+arch = "aarch64"
+git-tree-sha1 = "aa3d9de47e5fb76a6bb16e5bfd43ea604b75db5e"
+libc = "glibc"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "e283aabe86f95aa927c8414204ad83cd80af33afb69f7e6eefd375b5b2291816"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.aarch64-linux-gnu.tar.gz"
+[[SDL12_compat]]
+arch = "aarch64"
+git-tree-sha1 = "b6803ca52c85664fb16c5fcae166e10a65a123a0"
+libc = "musl"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "1f0f351fe9cffcfbce065de435c9399198cfe96f0c25bcd07a6be20239ea56ff"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.aarch64-linux-musl.tar.gz"
+[[SDL12_compat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f92742ae664509e63cb365d4be6aaa8f25bc86d3"
+libc = "glibc"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "9a6c82b1a6efff26b461a77b9cb1b03f616b44f30a146966b38ee9c1b4f0f3de"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.armv6l-linux-gnueabihf.tar.gz"
+[[SDL12_compat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2227e819d5b45c98bf92244acb20a86368d6cbb4"
+libc = "musl"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "1533cdaf94208c76c9824b1eced912d6f50eb947f948d8a08e79bb5907c83c0c"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.armv6l-linux-musleabihf.tar.gz"
+[[SDL12_compat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d0569600120fc808b2de56a47f2d98de64f857b5"
+libc = "glibc"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "a39d1c9a087530404e723cd60f25c710f3554baa35cd1b32f1b73c430fced918"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.armv7l-linux-gnueabihf.tar.gz"
+[[SDL12_compat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eb29321c1a179b09d3155af38126158840a7f3a5"
+libc = "musl"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "78ea327480c9de10611ceb16455c481de65a9a977323aca44024def4596653f8"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.armv7l-linux-musleabihf.tar.gz"
+[[SDL12_compat]]
+arch = "i686"
+git-tree-sha1 = "c1976f8e12802fbfb3808f19b3e5f0e4946a2d80"
+libc = "glibc"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "6f9b46ad0003d72c6b099755070deeb780862e7f90f91249eba43b81cf772dfd"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.i686-linux-gnu.tar.gz"
+[[SDL12_compat]]
+arch = "i686"
+git-tree-sha1 = "9d22abf83ae8f7366d189598c12b0816e650f133"
+libc = "musl"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "f92d1643774b5600f720838ba92e36ecb835feb0af56c5c4d10b160a09150846"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.i686-linux-musl.tar.gz"
+[[SDL12_compat]]
+arch = "i686"
+git-tree-sha1 = "c36443a3392374cafefe1ecf553a3bc40d189539"
+os = "windows"
+
+    [[SDL12_compat.download]]
+    sha256 = "53fb76d6014ceec8bcab897c55b2f1c0f0890dc68eca30cbe0f9daa4041d67c9"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.i686-w64-mingw32.tar.gz"
+[[SDL12_compat]]
+arch = "powerpc64le"
+git-tree-sha1 = "abb1931991d200b17c2c1feb9062f6cf30f7d4b3"
+libc = "glibc"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "44431c56e2e10a1130b4ec825b7e30384d0459b577267baf8219d43eadf154f2"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.powerpc64le-linux-gnu.tar.gz"
+[[SDL12_compat]]
+arch = "x86_64"
+git-tree-sha1 = "a4b9c8966d2794256a5e18588b6fe91c5c7d41b6"
+os = "macos"
+
+    [[SDL12_compat.download]]
+    sha256 = "8e1ae3349f27d693c70d556946822479429476f394bdab284d5827d6586778c6"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.x86_64-apple-darwin.tar.gz"
+[[SDL12_compat]]
+arch = "x86_64"
+git-tree-sha1 = "c48ecc554c35f86c0fd0234246ceae0cce1558dc"
+libc = "glibc"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "ef716191a8a82f7dfe6364f094510a521a0fb282bfee1d094980c5b07b9760bd"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.x86_64-linux-gnu.tar.gz"
+[[SDL12_compat]]
+arch = "x86_64"
+git-tree-sha1 = "2c6b18ae3c4dd01677f5f61c09ad7934c374abb9"
+libc = "musl"
+os = "linux"
+
+    [[SDL12_compat.download]]
+    sha256 = "f9a1614f6441603f7013a42fca2d66204cae1b777bfbb1f232a70ab429d3116b"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.x86_64-linux-musl.tar.gz"
+[[SDL12_compat]]
+arch = "x86_64"
+git-tree-sha1 = "3e158c138bfb6d7a82ec3c3907b5b571ee6214c2"
+os = "freebsd"
+
+    [[SDL12_compat.download]]
+    sha256 = "4f2bd72708f3ce48a3979066e69aca6bac20f76d62ec1ed9addc0d73bccea5ba"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.x86_64-unknown-freebsd.tar.gz"
+[[SDL12_compat]]
+arch = "x86_64"
+git-tree-sha1 = "601075abb46a5a0cb9f6448f8b97cc8917a86c99"
+os = "windows"
+
+    [[SDL12_compat.download]]
+    sha256 = "728de34edb8d65b10f057090f3f585d433c7b0784f867f138dd62e0a67cd6a4f"
+    url = "https://github.com/JuliaBinaryWrappers/SDL12_compat_jll.jl/releases/download/SDL12_compat-v1.2.60+0/SDL12_compat.v1.2.60.x86_64-w64-mingw32.tar.gz"
